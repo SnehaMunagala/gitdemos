@@ -7,6 +7,7 @@ public class Sample1 {
 		System.out.println("First commint");
 		System.out.println("second line");
 		System.out.println("added release 1 code");
+		System.out.println("release 2 code");
 	}
 	
 }
